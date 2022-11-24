@@ -1,0 +1,60 @@
+.wrapper {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  
+  .typing-demo {
+    width: 45Ch;
+    animation: typing 5s steps(45), blink .5s infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 3em;
+    color: aliceblue;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+.RAPPER
+.wrapper {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  
+  .typing-demo {
+    width: 45Ch;
+    animation: typing 5s steps(45), blink .5s infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 3em;
+    color: aliceblue;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+  }
+  body{
+    background-color: rgb(240, 1, 1);
+  }
